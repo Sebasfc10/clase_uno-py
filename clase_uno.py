@@ -26,6 +26,10 @@ c = a ** (1/3)
 print(c)
 
 
+# conversiones de tipos de datos
+# de a entero
 
-raiz = math.sqrt(25)
-print(raiz)
+a = '3'
+y = int(a) #vale para float, str, int, etc...
+print(y)
+print(type(y))
