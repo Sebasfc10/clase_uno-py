@@ -62,6 +62,10 @@ print(f'el valor inicial es: {precio}')
 print(f'el valor ahorrado es: {ahorrado}')
 print(f'el valor en descuento es este: {descuento}')
 
+"""
+seguimos...
+"""
+
 
 
 
