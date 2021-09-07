@@ -87,6 +87,24 @@ jerarquias
 jerarquias de operaciones booleanas
 1. parentesis y llaves
 2. tablas de verdad
+"""
+#ejericcio IF
+
+age = int(input('ingrese su edad: '))
+if age > 18:
+    print('es mayor de edad')
+else:
+    print('es menor de edad')
+
+#ejercicio IF 2
+
+nota = float(input('ingrese su nota: '))
+if nota < 3.0:
+    print('reprobo')
+if nota > 3 and nota < 5:
+    print('aprobo')
+
+
 
 
 
