@@ -63,8 +63,30 @@ print(f'el valor ahorrado es: {ahorrado}')
 print(f'el valor en descuento es este: {descuento}')
 
 
+"""
+seguimos
+"""
 
+#negacion 
+print(not True) #false
+print(not False) #true
 
+# mas de dos condiciones al mismo tiempo
+print(True and False and True or False or True or True) #true
+print(True and (False and True) or False or (True or True)) #true
+
+"""
+jerarquias
+1. parentesis y llaves
+2. potencia y raices
+3. multiplicacion y division
+4. sumas y restas
+"""
+
+"""
+jerarquias de operaciones booleanas
+1. parentesis y llaves
+2. tablas de verdad
 
 
 
